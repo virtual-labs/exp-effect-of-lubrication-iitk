@@ -21,13 +21,13 @@ There are three types of lubrication: Boundary Lubrication (BL), Mixed Lubricati
 
 The full film lubrication is classified into further two categories based on the relative motion of sliding bodies. Hydrodynamic lubrication occurs when two surfaces fully separated by liquid film are in sliding motion, while elastohydrodynamic lubrication occurs when surfaces are in rolling motion.<br>
 
-<b><u>Full-film lubrication:</u></b><br>
+<b>Full-film lubrication</b><br>
 As mentioned earlier, even the most polished surfaces have asperities. Thus, the lubricating film must be thicker than the length of the asperities for the lubricant to form a full-film. This lubrication best protects surfaces and is also the most preferred.<br>
 
-<b><u>Boundary lubrication:</u></b><br>
+<b>Boundary lubrication</b><br>
 When two tribosurfaces are too close to one another, and there is a relative motion, the surface asperities dominate the contact. This condition is known as boundary lubrication. This type of lubrication is not ideal because it increases wear rates, generates high levels of frictional heat, and has other adverse effects.<br>
 
-<b><u>Mixed Lubrication: </u></b><br>
+<b>Mixed Lubrication </b><br>
 Mixed lubrication is a state that is a mix of hydrodynamic lubrication and boundary lubrication. In this state, a lubricating film keeps the main surfaces apart, but asperities on surfaces can still make contacts with each other.<br>
 
 These lubrication conditions can be understood well using Stribeck curve and using a plot of coefficient of friction (µ) with film parameter (λ), as shown in the following figures.<br>
