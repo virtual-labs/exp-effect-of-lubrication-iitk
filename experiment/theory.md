@@ -14,7 +14,7 @@ A lubrication parameter or film parameter, <i>λ</i>, which is described using l
 
 where h<sub>min</sub> is the minimum film thickness, and Rq<sub>A</sub> and Rq<sub>B</sub> are the root mean square roughness of the contacting surfaces A and B, respectively (as shown in the Fig. 1).<br>
 <c><image src=images/image3.PNG></c><br>
-
+Fig. 1: Two contacting surfaces A and B having a lubricant-film in between them.<br><br>
 <b><u>Types of Lubrication</u></b><br>
 There are three types of lubrication: Boundary Lubrication (BL), Mixed Lubrication (ML) and Full film Lubrication (FFL). The Fig. 2 is schematic demonstrating these lubrication types.<br> 
 <c><image src=images/image4.PNG></c><br>
