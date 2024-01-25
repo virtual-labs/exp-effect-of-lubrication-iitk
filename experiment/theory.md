@@ -33,6 +33,6 @@ When two tribosurfaces are too close to one another, and there is a relative mot
 Mixed lubrication is a state that is a mix of hydrodynamic lubrication and boundary lubrication. In this state, a lubricating film keeps the main surfaces apart, but asperities on surfaces can still make contacts with each other.<br>
 
 These lubrication conditions can be understood well using Stribeck curve and using a plot of coefficient of friction (µ) with film parameter (λ), as shown in the following figures.<br>
-<center><image src="images/pic5.png"></center>
+<center><image src="images/(pic5.png"></center>
 
 
