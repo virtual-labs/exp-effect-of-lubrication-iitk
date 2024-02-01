@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Which type of lubrication involves the complete separation of the contacting surfaces by a fluid film?",
+      "answers": {
+        "a": "Boundary lubrication",
+        "b": "Mixed lubrication",
+        "c": "Hydrodynamic lubrication",
+        "d": "Solid lubrication"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The coefficient of friction in a well-lubricated system is typically:",
+      "answers": {
+        "a": "High",
+        "b": "Low",
+        "c": "Unchanged",
+        "d": "Dependent on the material composition"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which type of wear is minimized by the use of effective lubrication?",
+      "answers": {
+        "a": "Adhesive wear",
+        "b": "Abrasive wear",
+        "c": "Fatigue wear",
+        "d": "Erosive wear"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The lubrication film parameter that represents the lubricant's ability to separate the contacting surfaces is:",
+      "answers": {
+        "a": "Load-carrying capacity",
+        "b": "Friction coefficient",
+        "c": "Lubricant viscosity",
+        "d": "Lubrication film pressure"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. The Stribeck curve depicts the relationship between:",
+      "answers": {
+        "a": "Lubricant temperature and film thickness",
+        "b": "Load and lubrication film thickness",
+        "c": "Speed and friction coefficient",
+        "d": "Viscosity and load-carrying capacity"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
