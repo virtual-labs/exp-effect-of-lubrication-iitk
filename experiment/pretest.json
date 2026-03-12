@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Frictional heat arises in tribological bodies from",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Surface asperities in contact with each other",
+        "b": "Wear debris causing friction",
+        "c": "Presence of lubricant film",
+        "d": "High thermal conductivity of tribosurfaces"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a & b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The primary function of lubricant is ",
+      "answers": {
+        "a": "To reduce the friction between tribosurfaces",
+        "b": "To improve the aesthetics of tribosurfaces",
+        "c": "To increase the efficiency of moving parts",
+        "d": "To transfer load from one component to another"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,29 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. The machine will operate_________ when lubricant is used.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Quickly",
+        "b": "With increased friction ",
+        "c": "With cleanliness",
+        "d": "Without noise"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which of the following is the most important property of the lubricant?",
+      "answers": {
+        "a": "Density",
+        "b": "Smell",
+        "c": "Viscosity",
+        "d": "Melting point"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
